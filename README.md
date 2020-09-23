@@ -6,7 +6,7 @@ This repos is a training presentation for the Intelligent Application Guilds at 
 
 ## Contents
 
-Please join the intelligeng apps guild for "Google Cloud AI Platform".  This presentation will be an beginner level presentation on the services that make up the Google Cloud AI platform.  We will cover Google's AI philosophy, TPUs and Google's AI infrastructure, An overview of GCP's Cloud AI building blocks with code samples for video and vision, An overview and AutoML and building a custom model for vision, and a brief overview of the larger AI platform for custom models on google cloud.
+Please join the intelligent apps guild for "Google Cloud AI Platform".  This presentation will be an beginner level presentation on the services that make up the Google Cloud AI platform.  We will cover Google's AI philosophy, TPUs and Google's AI infrastructure, An overview of GCP's Cloud AI building blocks with code samples for video and vision, An overview and AutoML and building a custom model for vision, and a brief overview of the larger AI platform for custom models on google cloud.
 
 ## Code Samples
 
